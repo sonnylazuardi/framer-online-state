@@ -1,21 +1,26 @@
 {
-  "main": "build/index.js",
-  "license": "MIT",
-  "devDependencies": {
-    "@types/react": "^16.4.16",
-    "framer": "^0.9.0"
-  },
-  "peerDependencies": {
-    "framer": "^0.9.0",
-    "react": "^16.7.0-alpha.0",
-    "react-dom": "^16.7.0-alpha.0"
-  },
-  "framer": {
-    "id": "0342a242-a67f-41f3-ac4e-99f3451d7e90"
-  },
-  "author": "Sonny Lazuardi",
-  "dependencies": {
-    "react": "16.7.0-alpha.0",
-    "react-dom": "16.7.0-alpha.0"
-  }
+	"main": "build/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.4.16",
+		"framer": "^0.9.0"
+	},
+	"peerDependencies": {
+		"framer": "^0.9.0",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "e7fb2a28-1251-4148-82f1-56c634ad6056",
+		"displayName": "Online State"
+	},
+	"author": "Sonny Lazuardi",
+	"dependencies": {
+		"@framer/benjamin.icon-generator": "^1.8.0",
+		"@framer/sonnylzgrb.online-state": "^1.0.0",
+		"@framer/tryjohnny.placeholder-dimensions": "^1.0.0",
+		"@framer/tryjohnny.placekitten": "^1.0.0"
+	},
+	"name": "@framer/sonnylzgrb.online-state",
+	"version": "1.2.0"
 }
